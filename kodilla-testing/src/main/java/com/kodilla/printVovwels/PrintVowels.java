@@ -14,7 +14,6 @@ public class PrintVowels {
 
     public static void main(String[] args) {
         PrintVowels printVowels = new PrintVowels();
-        System.out.println(printVowels.printVowels("Ala ma kota, a kot ma Ale"));
     }
 }
 
